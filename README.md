@@ -45,4 +45,4 @@ Tenho muito interesse pelo Ecossistema JAVA e hoje os meus estudos estão voltad
 ![Glauber Fernandes Dev Github stats](https://github-readme-stats.vercel.app/api?username=glauberfernandes&show_icons=true&theme=dracula)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glauberfernandes&show_icons=true&theme=draculae&locale=en&layout=compact" alt="glauberfernandes" /></p> -->
 ![Glauber Fernandes's github stats](https://github-readme-stats.vercel.app/api?username=glauberfernandes&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glauberfernandes&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glauberfernandes&show_icons=true&theme=dracula&layout=compact)
