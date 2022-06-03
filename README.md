@@ -2,8 +2,8 @@
 
 ### Me chamo Glauber Fernandes
 
-Sou envolvido e apaixonado pela a área de TI há mais de 06 anos, amo programação e atualmente trabalho com Java e PL/SQL como Analista/Desenvolvedor II.
-Tenho muito interesse pelo Ecossistema JAVA e hoje os meus estudos estão voltados para Spring Boot e criação de API Rest.
+Sou envolvido e apaixonado pela a área de TI há mais de 06 anos, amo programação e atualmente trabalho com Java, Spring, Rest e PL/SQL como Analista de Software.
+Gosto muito de estudar desenvolvimento e também tenho bastante interesse por AWS.
 
 
 ### Meus objetivos:
